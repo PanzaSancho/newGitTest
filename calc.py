@@ -1,5 +1,5 @@
 def add(x,y):
-	return 1.0*(x+y)
+	return 10.0*(x+y)
 
 def subtract(x,y):
 	return 1.0*(x-y)
